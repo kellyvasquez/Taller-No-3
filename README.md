@@ -1,2 +1,7 @@
 # Taller-No-3
-Taller No 3 - Instagram Django
+
+Integrantes:
+
+Cristian Duran Monsalve
+Luis Carlos Jordan Hurtado
+Kelly Fernanda Vásquez Zapata
